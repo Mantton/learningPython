@@ -7,7 +7,7 @@ while True:
     user = input("ENTER A NUM BETWEEN 1 & 9 ")
     if user.lower() == "quit":
         break
-
+    #catch invalid input error
     try:
         if int(user) > num:
             print("TOO HIGH")
