@@ -1,3 +1,3 @@
 # learningPython
 learning Python
-Compilation of diffent programs im doing as pythn excercises
+Compilation of different programs im doing as python excercises
